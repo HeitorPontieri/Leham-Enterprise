@@ -1,0 +1,8 @@
+Melissa Victória Lacerda Araújo 
+
+Na aula do dia 03/05/22, nós planejamos concluir o projeto no figma, para então começarmos a programação dos códigos. 
+Eu estou desenvolvendo a página "sobre nós", a meta é concluí-la. 
+A empresa Scervino pediu um modelo específico, com textos apresentando a proposta da empresa e os valores, além da imagens dos fundadores. O objetivo é conseguir atender todos esses pedidos de uma maneira que o site não fique poluído e cheio de informações soltas e desconexas. 
+Também vou criar as pastas de css e html no vscode, deixa-las todas prontas para facilitar na execução do código e criar um novo repositório no github.
+
+https://www.figma.com/file/Ft9Zl4jnqNn8ynhsY77A3i/Scervino-Project?node-id=0%3A1

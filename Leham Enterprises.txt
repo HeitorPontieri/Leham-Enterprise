@@ -1,0 +1,18 @@
+Leham Enterprises
+
+Heitor Pontieri (Líder)
+Leonel Ramos 
+Melissa Victória
+Antony Gabriel 
+
+Email :
+lehamenterprises@sesisenaispedu.onmicrosoft.com
+
+Antony - Valores 
+Melissa - Home 
+Leonel - Beneficíos 
+Heitor - Colaboradores 
+
+
+
+O protótipo e o design serão feitos no figma e todos farão, é algo importante que todos façamos para  termos a ideia do site na cabeça e bem parecida entre nós, vamos usar como base e inspiração o site de recrutamento do banco nubank, que foi sugerido pelos contratantes, além de nós gostarmos do exemplo por ser um site clean e minimalista, o que encaixa com o que queremos 
